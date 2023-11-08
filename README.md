@@ -1,6 +1,6 @@
 # odin-recipes
 
-This current project is a website containing the famous Indian recipes across the world.
+This current project is a website containing the famous Asian recipes across the world.
 
 In this project, while building the recipes website I've used my skill in HTML.
 
