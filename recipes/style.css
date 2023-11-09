@@ -1,0 +1,22 @@
+
+
+h1,
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    color: black;
+    background-color: lightgreen;
+    font-size: 35px;
+    
+}
+
+p{
+    font-size: 20px;
+    color: lightcoral;
+}
+
+li,
+ol{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    font-size: large;
+}
